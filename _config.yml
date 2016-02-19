@@ -1,0 +1,28 @@
+name: The GIRD
+favicon: null
+layout_spectrum: 0.8114219177514315
+typography_spectrum: 0.05978945945389569
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6581042432226241
+  lightness: 0.41060479753650725
+  saturation: 0.05454157781787217
+  rhythmicContrast: 0.6309494704473764
+purpose: []
