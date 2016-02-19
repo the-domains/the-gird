@@ -1,7 +1,7 @@
 name: The GIRD
 favicon: null
-layout_spectrum: 0.8114219177514315
-typography_spectrum: 0.05978945945389569
+layout_spectrum: 1
+typography_spectrum: 0.92775
 cta:
   domain: null
   bucket: null
